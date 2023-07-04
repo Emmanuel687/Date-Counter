@@ -7,10 +7,15 @@ To run the application, you will need to have Node.js and NPM installed. Once yo
 Code snippet
 
 npm install
+
 npm start
 
 Use code with caution. Learn more
 The application will then be served on port 3000. You can open a web browser and navigate to localhost:3000 to view the application.
+
+# Images
+![web-screenshot-04-07-2023 (1)](https://github.com/Emmanuel687/Date-Counter/assets/93251478/b3666bd7-5a47-4efb-b588-900521b7d44f)
+
 
 # Practise Problem
 1.Understand How to useState hook
